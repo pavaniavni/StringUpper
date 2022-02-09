@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\bin\Debug\net6.0\Stringupper.exe
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\bin\Debug\net6.0\Stringupper.deps.json
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\bin\Debug\net6.0\Stringupper.runtimeconfig.json
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\bin\Debug\net6.0\Stringupper.dll
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\bin\Debug\net6.0\ref\Stringupper.dll
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\bin\Debug\net6.0\Stringupper.pdb
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\Stringupper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\Stringupper.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\Stringupper.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\Stringupper.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\Stringupper.dll
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\ref\Stringupper.dll
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\Stringupper.pdb
+C:\Users\Pavani\source\repos\Stringupper\Stringupper\obj\Debug\net6.0\Stringupper.genruntimeconfig.cache
